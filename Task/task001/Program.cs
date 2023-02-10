@@ -1,5 +1,5 @@
-﻿int a = 5;
-int b = 7;
+﻿int a = -3;
+int b = -10;
 int max;
 
 if (a > b)
